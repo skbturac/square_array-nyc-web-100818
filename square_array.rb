@@ -6,3 +6,4 @@ def square_array(array)
     square_array << b 
   end 
   square_array
+end
