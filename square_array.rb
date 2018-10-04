@@ -5,5 +5,4 @@ def square_array(array)
     new_array << num*num
   end
   return new_array.each
-  
 end
